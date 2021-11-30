@@ -14,7 +14,7 @@
 
 * 💞️ I’m looking to collaborate in a team on interesting projects
 
-- 🥅 My projects are available at Swordkim.github.io
+- 🥅 My projects are available at **[Swordkim](https://github.com/Swordkim)**
 
 * 📫 How to reach me klyshpaevasaltanat@gmail.com
 
